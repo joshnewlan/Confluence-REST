@@ -1,7 +1,6 @@
 # Confluence-REST
 ### Usage
 ```python
-Usage: 
 import confluence_rest as con
 auth_creds = ('username', 'password')
 page_id = '12345678'
